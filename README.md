@@ -105,6 +105,6 @@ Fill out this template in place in the README of your own fork of the assignment
 
 ## 9. Summary
 
-*Our project consisted of developing a design that was simple yet effectively implemented as many features the micro:bit could do. We learned that it’s truly about trial and error and taking everything a step at a time, once we were able to effectively incorporate something only then wwould we move on to the next step. Thanks to the radio, sound, Micropython, and accelerometers were able to effectively program a more effective and productive design with a glimpse of the complexity that’s behind the micro:bit.*
+*Our project consisted of developing a design that was simple yet effectively implemented as many features the micro:bit could do. We learned that it’s truly about trial and error and taking everything a step at a time, once we were able to effectively incorporate something only then would we move on to the next step. Thanks to the radio, sound, Micropython, and accelerometers were able to effectively program a more effective and productive design with a glimpse of the complexity that’s behind the micro:bit.*
 
 
