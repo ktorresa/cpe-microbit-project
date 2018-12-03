@@ -61,36 +61,48 @@ Fill out this template in place in the README of your own fork of the assignment
 
 ## 1. Project Title
 
-*How is your project/application called?*
+*Our project name was Multiplayer R.P.S.L.S.*
 
 ## 2. Team
 
-*Who worked on this project/application?*
+*My partner in crime to achieve this project was Daniela Lujan.*
 
 ## 3. Project Objective
 
-*Describe what you set out to achieve. What [micro:bit](https://microbit.org/) capabilities were necessary and/or useful for your implementation.*
+*In the end we set out to make the game rock, paper, scissors, lizard, spock feel more like a real game with various features.  It is modification to the previous project you can say it’s the 2.0 version. The micro:bit’s capabilities that were necessary and useful for this project was basically all the amazing things this little computer could do. But the most crucial were its ability to communicate with other devices, as well as its ability to produce sound, and its accelerometer. If it weren’t for these capabilities our project would be a project that only displayed images*
 
 ## 4. Research
 
-*What sources did you consult (Web, instructor, etc)? Don't plagiarize; give credit where it's due!*
+*This project would not have been done with only our creative minds. Due to having no experience with python and the micro:bit itself we had to seek help from online resources as well as from our professor. The main microb:bit website (https://microbit.org/) was the most crucial specifically the reference and features guide.*
 
 ## 5. Design
 
-*Describe your design briefly and reference any supporting materials in the [assets](assets) folder. Talk about input, output, processing, and storage (aka memory) in your design.*
+*Our design involved a various amount of inputs that resulted in outputs. Without the help if its processing and storage our design would have not worked properly or at all. The design was meant to play as many rounds as the players would like and when one of the players reaches a certain score it will immediately send a “You Lose” message to the opponent. The micro:bit was also designed in our project to have speech commands throughout.  Within the project the inputs used were the buttons and the accelerometer when it was shaken.  The outputs that resulted from this was the increase of the score by the press of the a button:if the b was pressed then the game would quit, and if the reset button was pressed it would reset and start over. However to get your weapons it would randomly chose when you would shake it. The processing that goes on was more crucial when it came the processing the data and generating the sound. But without the help of the storage it wouldn’t have been able to even store our code or run it. We also used calls already in its memories along with new variables storing our code.*
 
 ## 6. Development
 
-*Keep a list of your development activities here, regardless of their success. Reference any supporting materials or external sources.*
+1.  Adding features to the base rock paper scissors game.
+2.  We wanted to add a timer but we were not effective in doing so.
+3.  We initially thought the micro bits would be paired through bluetooth but instead used the radio feature.
+
 
 ## 7. Testing
 
-*Describe your testing approach. What was successful and what failed?*
+
+1.  Coded the images for the weapons
+2.  Coding it to add a point when button was pressed
+3. Tried adding a timer but failed
+4. Continuous adaptations didnt let it run
+5. Adjusted to end game after certain wins instead. 
+6. Tried sending images to other micro bit but failed.
+7.  Instead sent messages instead.
+8.  The project was a bit too simple and we didn't know what else to add and luckily Daniela found a speech command that let us make the micro:bit ‘talk’
+
 
 ## 8. Demo
 
-*Briefly report on the results of the in-class demo.*
+*The in-class demo wasn't as effective as we had been running it. We added some last minute adjustments into adding headphones through the use of alligator clips. However on one of the headphones, you had to hold them at a certain angle and way for it to not glitch. The issue was not because of our own coding but more so physical hardships with the micro:bit. We also did not have a speaker to make it sound louder but were able to still walk around and demonstrate throughout the class the full program. Other than that the demo went smoothly.*
 
 ## 9. Summary
 
-*Summarize your project, from idea to demo. Point out lessons learned. Mention the most important features of the micro:bit that supported your application.*
+*Our project consisted of developing a design that was simple yet effectively implemented as many features the micro:bit could do. We learned that it’s truly about trial and error and taking everything a step at a time, once we were able to effectively incorporate something only then will we move on to the next step. Thanks to the radio, sound, Micropython, and accelerometers were able to effectively program a more effective and productive design with a glimpse of the complexity that’s behind the micro:bit.*
