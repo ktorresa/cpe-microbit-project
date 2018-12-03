@@ -77,11 +77,11 @@ Fill out this template in place in the README of your own fork of the assignment
 
 ## 5. Design
 
-*Our design involved a various amount of inputs that resulted in outputs. Without the help if its processing and storage our design would have not worked properly or at all. The design was meant to play as many rounds as the players would like and when one of the players reaches a certain score it will immediately send a “You Lose” message to the opponent. The micro:bit was also designed in our project to have speech commands throughout.  Within the project the inputs used were the buttons and the accelerometer when it was shaken.  The outputs that resulted from this was the increase of the score by the press of the a button:if the b was pressed then the game would quit, and if the reset button was pressed it would reset and start over. However to get your weapons it would randomly chose when you would shake it. The processing that goes on was more crucial when it came the processing the data and generating the sound. But without the help of the storage it wouldn’t have been able to even store our code or run it. We also used calls already in its memories along with new variables storing our code.*
+*Our design involved a various amount of inputs that resulted in outputs. Without the help if its processing and storage our design would have not worked properly or at all. The design was meant to play as many rounds as the players would like and when one of the players reaches a certain score it will immediately send a “You Lose” message to the opponent. The micro:bit was also designed in our project to have speech commands throughout.  Within the project the inputs used were the buttons and the accelerometer when it was shaken.  The outputs that resulted from this was the increase of the score by the press of the a button:if the b was pressed then the game would quit, and if the reset button was pressed it would reset and start over. However, to get your weapons it would randomly chose when you would shake it. The processing that goes on was crucial when it came to processing the data and generating the sound. But without the help of the storage it wouldn’t have been able to even store our code or run it. We also used calls already in its memory along with new variables storing our code.*
 
 ## 6. Development
 
-1.  Adding features to the base rock paper scissors game.
+1.  Adding features to the base: rock paper scissors game.
 2.  We wanted to add a timer but we were not effective in doing so
 3.  We initially thought the micro bits would be paired through bluetooth but instead used the radio feature.
 
@@ -95,7 +95,7 @@ Fill out this template in place in the README of your own fork of the assignment
 4. Continuous adaptations didnt let it run
 5. Adjusted to end game after certain wins instead. 
 6. Tried sending images to other micro bit but failed.
-7.  Instead sent messages instead.
+7.  Instead sent messages .
 8.  The project was a bit too simple and we didn't know what else to add and luckily Daniela found a speech command that let us make the micro:bit ‘talk’
 
 
@@ -105,6 +105,6 @@ Fill out this template in place in the README of your own fork of the assignment
 
 ## 9. Summary
 
-*Our project consisted of developing a design that was simple yet effectively implemented as many features the micro:bit could do. We learned that it’s truly about trial and error and taking everything a step at a time, once we were able to effectively incorporate something only then will we move on to the next step. Thanks to the radio, sound, Micropython, and accelerometers were able to effectively program a more effective and productive design with a glimpse of the complexity that’s behind the micro:bit.*
+*Our project consisted of developing a design that was simple yet effectively implemented as many features the micro:bit could do. We learned that it’s truly about trial and error and taking everything a step at a time, once we were able to effectively incorporate something only then wwould we move on to the next step. Thanks to the radio, sound, Micropython, and accelerometers were able to effectively program a more effective and productive design with a glimpse of the complexity that’s behind the micro:bit.*
 
 
